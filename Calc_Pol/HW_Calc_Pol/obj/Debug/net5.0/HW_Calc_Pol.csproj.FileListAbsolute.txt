@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\HW_Calc_Pol\HW_Calc_Pol\bin\Debug\net5.0\HW_Calc_Pol.exe
+C:\Users\User\source\repos\HW_Calc_Pol\HW_Calc_Pol\bin\Debug\net5.0\HW_Calc_Pol.deps.json
+C:\Users\User\source\repos\HW_Calc_Pol\HW_Calc_Pol\bin\Debug\net5.0\HW_Calc_Pol.runtimeconfig.json
+C:\Users\User\source\repos\HW_Calc_Pol\HW_Calc_Pol\bin\Debug\net5.0\HW_Calc_Pol.runtimeconfig.dev.json
+C:\Users\User\source\repos\HW_Calc_Pol\HW_Calc_Pol\bin\Debug\net5.0\HW_Calc_Pol.dll
+C:\Users\User\source\repos\HW_Calc_Pol\HW_Calc_Pol\bin\Debug\net5.0\ref\HW_Calc_Pol.dll
+C:\Users\User\source\repos\HW_Calc_Pol\HW_Calc_Pol\bin\Debug\net5.0\HW_Calc_Pol.pdb
+C:\Users\User\source\repos\HW_Calc_Pol\HW_Calc_Pol\obj\Debug\net5.0\HW_Calc_Pol.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\HW_Calc_Pol\HW_Calc_Pol\obj\Debug\net5.0\HW_Calc_Pol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\HW_Calc_Pol\HW_Calc_Pol\obj\Debug\net5.0\HW_Calc_Pol.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\HW_Calc_Pol\HW_Calc_Pol\obj\Debug\net5.0\HW_Calc_Pol.AssemblyInfo.cs
+C:\Users\User\source\repos\HW_Calc_Pol\HW_Calc_Pol\obj\Debug\net5.0\HW_Calc_Pol.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HW_Calc_Pol\HW_Calc_Pol\obj\Debug\net5.0\HW_Calc_Pol.dll
+C:\Users\User\source\repos\HW_Calc_Pol\HW_Calc_Pol\obj\Debug\net5.0\ref\HW_Calc_Pol.dll
+C:\Users\User\source\repos\HW_Calc_Pol\HW_Calc_Pol\obj\Debug\net5.0\HW_Calc_Pol.pdb
+C:\Users\User\source\repos\HW_Calc_Pol\HW_Calc_Pol\obj\Debug\net5.0\HW_Calc_Pol.genruntimeconfig.cache
